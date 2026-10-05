@@ -1,0 +1,13 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "A modular Notes App using ES6 modules and Parcel",
+  "source": "index.html",
+  "scripts": {
+    "start": "live-server",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
